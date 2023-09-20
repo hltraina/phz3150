@@ -57,3 +57,11 @@ As I pushed origin in Github, an extra folder was created within my homework 3 f
 The extra file was a "checkpoint" file. When I first went to commit changes, there was a warning message pertaining the survey log; however, I chose to do it anyways and that's how the checkpoint file came to be.
 Created a Zipfile with screenshots and log to submit for the assignment. 
 *****OUT: Mon Sept 11 12:33:56 EST 2023
+*****IN: Wed Sept 20 1:53:45 EST 2023
+Opened a new file in Jupyter and created a separate file called "acceleration.py"
+Struggled with loading the separate file into the homework 4 doc
+Ran the acceleration function in a not separate file and the code worked, just had issues with importing it
+After lots of trial and error, my function ended up working!
+Tested my numbers with this website: https://www.omnicalculator.com/physics/acceleration
+Pushed my files on GitHub and created a zip file to submit!
+*****OUT: Wed Sept 20 3:50:56 EST 2023
