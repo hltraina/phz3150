@@ -1,0 +1,74 @@
+Hailey Traina
+Log for PHZ 3150, Fall 2023
+*****IN: Tues Aug 29 1:09:07 EST 2023
+Opened TextEdit, started this log, saved as:
+C:\Users\hltra\OneDrive\Documents\GitHub\phz3150\homeworks\homework 1.log
+Name: Hailey Traina
+Email: ha156753@ucf.edu
+Phone:321-408-8907
+Major:Statistics and Media Management 
+Year: Senior
+ID: 4995702
+Q: How did you hear about this course? 
+A: I heard about it from my physics minor advisor and I had some friends recommend this course. 
+Q: Do you have a laptop you can bring to class, install software on, etc.?
+A: I have a Dell laptop I can bring to class and install software on. 
+Q: What operating system and version does it run?
+A: I have Windows 10. 
+Q: How much free disk space does it have?
+A: 96.7 GB
+Q: What operating systems are you comfortable working in?
+A: I do not have much Mac experience so I am most comfortable with Windows.
+Q: What computer classes have you taken, including high school, extracurricular, etc.?
+A: I have taken a few Microsoft Application classes and an intro to Computer Science in high school. My first year at UCF, I took an intro to C course. In Statistics, we take many classes pertaining to R Studio and Python.
+Q: Have you ever programmed a computer?
+A: I have programmed a few games and crunched statistics, but do not have lots of experience.
+Q: In what language(s)?
+A: I programmed a few games in C my first year. Now, I use R mainly for statistics but have little experience in Python.
+Summarize your experience:
+Q: Have you taken statistics or probability?
+A: I am a Statistics major so I have taken numerous statistics and probability courses.
+Q: Why are you taking this course?
+A: I am taking this course to get a better understanding of Python and use it to program more outside of Statistics.
+Q: Are there particular topics you hope to learn?
+A: I hope to get more comfortable with Python applications and learn the basics so I can become more comfortable with developing Python programs.
+Q: If you have worked with scientific data or modeling before, briefly describe your experience:
+A: In Statistics, I have created tons of models based on a particular sample of data.
+Q: Have you ever been involved with a science club or similar? If so,describe:
+A: I have not gotten involved with a science club, but I hope to one day go into Meteorology.
+*****OUT: Weds Aug 30 12:43:55 EST 2023
+*****IN: Weds Sept 6 1:56:18 EST 2023
+Continued this log for Homework 2. 
+Took a screenshot of Jupyter after downloading the Anaconda installation from class Tuesday, August 29. My Jupyter Notebook currently runs Python version 3.
+I also took a screenshot of my Github desktop 
+Problem 2: 
+The dog loves eating food; his owner; and other dogs,
+The dog loves eating his owner and other dogs. 
+Natural languages, contrary to programming languages, are far more susceptible to evolution and change with usage. 
+Programming languages, while still may be susceptible to evolution and change, are often determined by few programmers to remain unambigious.
+Furthermore, natural languages have tons of rules for binding pronouns and often make statments abstract, which programming language strives to avoid. 
+Problem 3:
+Completed the Hello World tutorial on Github, too screenshots and saved to folder.
+*****OUT: Weds Sept 6 3:57:15 EST 2023
+*****IN: Mon Sept 11 12:18:45 EST 2023
+Reopened this log to work on the third homework assignment. Set up a repository within the class folder to complete the assignment.
+Created the Jupyter log and completed problems 1 - 3. 
+As I pushed origin in Github, an extra folder was created within my homework 3 folder. It was a test_git folder where there is a file that is a duplicate of my homework 3 file.
+The extra file was a "checkpoint" file. When I first went to commit changes, there was a warning message pertaining the survey log; however, I chose to do it anyways and that's how the checkpoint file came to be.
+Created a Zipfile with screenshots and log to submit for the assignment. 
+*****OUT: Mon Sept 11 12:33:56 EST 2023
+*****IN: Wed Sept 20 1:53:45 EST 2023
+Opened a new file in Jupyter and created a separate file called "acceleration.py"
+Struggled with loading the separate file into the homework 4 doc
+Ran the acceleration function in a not separate file and the code worked, just had issues with importing it
+After lots of trial and error, my function ended up working!
+Tested my numbers with this website: https://www.omnicalculator.com/physics/acceleration
+Pushed my files on GitHub and created a zip file to submit!
+*****OUT: Wed Sept 20 3:50:56 EST 2023
+*****IN: Tues Sept 26 10:30:45 EST 2023
+Created new file and pushed it from origin.
+Created a function to solve for roots using the quadratic formula, tested it using an online calculator to confirm results.
+Struggled with inputting list values for question 2
+Created a displacement funciton that ran smoothly!
+Double checked values using: https://www.calculatorsoup.com/calculators/physics/displacement_v_a_t.php
+*****OUT: Tues Sept 26, 1:30:57 p.m.
