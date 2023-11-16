@@ -1,0 +1,113 @@
+Hailey Traina
+Log for PHZ 3150, Fall 2023
+*****IN: Tues Aug 29 1:09:07 EST 2023
+Opened TextEdit, started this log, saved as:
+C:\Users\hltra\OneDrive\Documents\GitHub\phz3150\homeworks\homework 1.log
+Name: Hailey Traina
+Email: ha156753@ucf.edu
+Phone:321-408-8907
+Major:Statistics and Media Management 
+Year: Senior
+ID: 4995702
+Q: How did you hear about this course? 
+A: I heard about it from my physics minor advisor and I had some friends recommend this course. 
+Q: Do you have a laptop you can bring to class, install software on, etc.?
+A: I have a Dell laptop I can bring to class and install software on. 
+Q: What operating system and version does it run?
+A: I have Windows 10. 
+Q: How much free disk space does it have?
+A: 96.7 GB
+Q: What operating systems are you comfortable working in?
+A: I do not have much Mac experience so I am most comfortable with Windows.
+Q: What computer classes have you taken, including high school, extracurricular, etc.?
+A: I have taken a few Microsoft Application classes and an intro to Computer Science in high school. My first year at UCF, I took an intro to C course. In Statistics, we take many classes pertaining to R Studio and Python.
+Q: Have you ever programmed a computer?
+A: I have programmed a few games and crunched statistics, but do not have lots of experience.
+Q: In what language(s)?
+A: I programmed a few games in C my first year. Now, I use R mainly for statistics but have little experience in Python.
+Summarize your experience:
+Q: Have you taken statistics or probability?
+A: I am a Statistics major so I have taken numerous statistics and probability courses.
+Q: Why are you taking this course?
+A: I am taking this course to get a better understanding of Python and use it to program more outside of Statistics.
+Q: Are there particular topics you hope to learn?
+A: I hope to get more comfortable with Python applications and learn the basics so I can become more comfortable with developing Python programs.
+Q: If you have worked with scientific data or modeling before, briefly describe your experience:
+A: In Statistics, I have created tons of models based on a particular sample of data.
+Q: Have you ever been involved with a science club or similar? If so,describe:
+A: I have not gotten involved with a science club, but I hope to one day go into Meteorology.
+*****OUT: Weds Aug 30 12:43:55 EST 2023
+*****IN: Weds Sept 6 1:56:18 EST 2023
+Continued this log for Homework 2. 
+Took a screenshot of Jupyter after downloading the Anaconda installation from class Tuesday, August 29. My Jupyter Notebook currently runs Python version 3.
+I also took a screenshot of my Github desktop 
+Problem 2: 
+The dog loves eating food; his owner; and other dogs,
+The dog loves eating his owner and other dogs. 
+Natural languages, contrary to programming languages, are far more susceptible to evolution and change with usage. 
+Programming languages, while still may be susceptible to evolution and change, are often determined by few programmers to remain unambigious.
+Furthermore, natural languages have tons of rules for binding pronouns and often make statments abstract, which programming language strives to avoid. 
+Problem 3:
+Completed the Hello World tutorial on Github, too screenshots and saved to folder.
+*****OUT: Weds Sept 6 3:57:15 EST 2023
+*****IN: Mon Sept 11 12:18:45 EST 2023
+Reopened this log to work on the third homework assignment. Set up a repository within the class folder to complete the assignment.
+Created the Jupyter log and completed problems 1 - 3. 
+As I pushed origin in Github, an extra folder was created within my homework 3 folder. It was a test_git folder where there is a file that is a duplicate of my homework 3 file.
+The extra file was a "checkpoint" file. When I first went to commit changes, there was a warning message pertaining the survey log; however, I chose to do it anyways and that's how the checkpoint file came to be.
+Created a Zipfile with screenshots and log to submit for the assignment. 
+*****OUT: Mon Sept 11 12:33:56 EST 2023
+*****IN: Wed Sept 20 1:53:45 EST 2023
+Opened a new file in Jupyter and created a separate file called "acceleration.py"
+Struggled with loading the separate file into the homework 4 doc
+Ran the acceleration function in a not separate file and the code worked, just had issues with importing it
+After lots of trial and error, my function ended up working!
+Tested my numbers with this website: https://www.omnicalculator.com/physics/acceleration
+Pushed my files on GitHub and created a zip file to submit!
+*****OUT: Wed Sept 20 3:50:56 EST 2023
+*****IN: Tues Sept 26 10:30:45 EST 2023
+Created new file and pushed it from origin.
+Created a function to solve for roots using the quadratic formula, tested it using an online calculator to confirm results.
+Struggled with inputting list values for question 2
+Created a displacement funciton that ran smoothly!
+Double checked values using: https://www.calculatorsoup.com/calculators/physics/displacement_v_a_t.php
+*****OUT: Tues Sept 26, 1:30:57 p.m.
+*****IN: Tues Oct, 3 11:37:15 a.m.
+Created the Homework 6 folder and kernel. 
+Completed Problem 1 and created a graph. Struggled with adjusting the size of the line. 
+Completed Problem 2. Bright was not one of the words featured in the question so did not include it in my code. 
+Defined the dictionary for problem 3. 
+Pushed on GitHub to origin!
+******OUT: Tues Oct, 3 2:43:16 p.m.
+******IN: Tues Oct, 10 2:30:15 p.m.
+Created the Homework 7 folder and kernel.
+Using the previous lecture, found an example similar to the for loop for part 1 of problem 1.
+Struggled with formatting the while loop for a bit. The code kept returning "developer" for a few attempts. 
+To fix this issue, I created the "split" variable to condense some code and it returned the correct word.
+For problem 2 and 3, the .py file would only import if I named the file hw7 so I only used that as the name.
+The circle function worked as intended and my circle plot never connected, however, when using a handheld calculator, it showed that there were imaginary values near the origin.
+Struggled a bit with defining the order_array function, so had to use online sites as resources for examples. The second for loop was what I struggled with; however, it does make sense after running.
+Problem 4 was a bit of a struggle as well, but I found how to properly program the mean and max values without using numpy. However, as explained in class, numpy is always the most efficient way opposed to the for loops.
+******OUT: Tues Oct, 10 4:02:49 p.m. 
+******IN: Wed Nov, 1 12:33:13 p.m.
+Created the Hw 8 folder and began my log. 
+I created the function for Question 1 and tested it out--it ran smoothly!
+All of my values were super close to the actual value which make it difficult to see in the graph
+To fix this, I changed the size of the dot to make them larger and visible. 
+I then created the class for Question 2 and I did not have any issues with creating the functions!
+I ran three test cases for the numbers given and everything worked smoothly.
+******OUT: Wed Nov 1, 2:12:05 p.m.
+******IN: Wed Nov 15, 2:34:48 p.m
+Created the Hw 9 folder and began my log. 
+Worked on problem 1. Parts A and C were pretty simple for me to figure out.
+Parts B and D took a bit to code correctly. Had to debug with lots of printing statements.
+At first, the participants were listed correctly, but the times were not list correctly at all. 
+My first mistake was dividing by 3600 instead of multiplying. Once I fixed that error, the correct values were printing. 
+I struggled a bit with the second function in the for loop. I needed to create one in order to get the same values for each A and D. 
+Began Question 2! I struggled with understanding the circuit concept at first so I needed to review formulas.
+Did not have much trouble with creating the function. I added an else statement that prints to change the input if series or parallel is not typed.
+Began Question 3! Did not struggle with the function. 
+I did need to take some time to make the graph. While it did print out 3D, my line was a flat parabola which did not feel right. 
+I posted on YellowDig about advice and someone commented with a great suggested that improved my graph! 
+I then saved the graph and prepped my folder to zip for submission.
+******OUT: Wed, Nov 15 10:40:45 p.m.

@@ -91,3 +91,9 @@ Problem 4 was a bit of a struggle as well, but I found how to properly program t
 ******OUT: Tues Oct, 10 4:02:49 p.m. 
 ******IN: Wed Nov, 1 12:33:13 p.m.
 Created the Hw 8 folder and began my log. 
+I created the function for Question 1 and tested it out--it ran smoothly!
+All of my values were super close to the actual value which make it difficult to see in the graph
+To fix this, I changed the size of the dot to make them larger and visible. 
+I then created the class for Question 2 and I did not have any issues with creating the functions!
+I ran three test cases for the numbers given and everything worked smoothly.
+******OUT: Wed Nov 1, 2:12:05 p.m.
